@@ -1,0 +1,8 @@
+tenes que abrir el git en la carpeta raiz 
+"open git bash here"
+luego poner git status para ver si hubo un cambio
+te lo va a marcar en rojo
+pones
+git add .
+para agregar el contenido cambiado
+y listo
